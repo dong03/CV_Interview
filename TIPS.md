@@ -34,3 +34,35 @@
 - 拼多多：交叉熵优势；n个人上电梯，排在队首的有p的概率进电梯，求t时刻电梯里人数的期望；构建一个二叉堆。
 - 亚马逊：数组，删掉一位使奇数位的和等于偶数位的和，注意删掉后奇偶会变；重要逆序对改编 $（i<j, nums[i] > 2* nums[j])$
 - 字节：最长无重复子字符；搜索旋转数组；递归求抽卡数学期望。
+
+## 更多面经（实验室同学参与整理）
+
+### 实习
+- [美团：视觉智能中心-基础技术平台-IOT团队](exp/meituan.md)
+- [腾讯：CSIG-安全](exp/tencent.md)
+- [字节秋招提前批：搜索部门多模+快手暑期实习](exp/bytedance_zfm.md)
+- [字节：Data-电商](exp/bytedance_cxr.md)
+- [腾讯：优图实验室](exp/tencent_cxr.md)
+- [阿里：蚂蚁集团-支付宝事业线-IoT事业部](exp/ant_cxr.md)
+- [小红书-多媒体](exp/xhs_tkb.md)
+- [字节-搜索](exp/bytedance_tkb.md)
+- [字节-tiktok-推荐视频理解](exp/bytedance_tiktok_tkb.md)
+- [快手-视频广告(社科/外循环)](exp/ks_tkb.md)
+- [hulu:视频编解码](exp/hulu_wy.MD)
+- [字节：机器学习中台](exp/bytedance_wy.md)
+-------------------------------------
+### 秋招
+- [shein](exp/shein.md)
+- [insta](exp/insta.md)
+- [陌陌](exp/momo.md)
+- [字节-TNS-人审](exp/bytedance_tns.md)
+- [字节-客户端开发](exp/bytedance_wy_dev.md)
+- [蔚来-感知](exp/nio_tkb.md)
+- [字节-智能创作cv](exp/bytedance_tkb_zncz.md)
+- [科大讯飞-研究院CV](exp/iflytek.md)
+- [旷视-CSG](exp/megvii_cxr.md)
+- [shein](exp/shein_cxr.md)
+- [百度](exp/baidu_cxr.md)
+- [microsoft](exp/microsoft.md)
+- [科大讯飞](exp/iflytek.md)
+
