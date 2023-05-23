@@ -90,4 +90,5 @@
       * [Transformer 设计经验](DL.md#transformer-设计经验)
       * [sth else](DL.md#sth-else)
   * [指标](DL.md#指标)
+  * [杂项](DL.md#杂项)
 
